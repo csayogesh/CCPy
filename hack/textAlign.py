@@ -3,6 +3,7 @@ import sys
 # Replace all ______ with rjust, ljust or center.
 
 thickness = int(input())  # This must be an odd number
+
 n = 5
 c = 'H'
 
